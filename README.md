@@ -36,19 +36,6 @@ Quiz-Application/
 └── README.md
 ```
 
----
-
-## 📸 Screenshot
-
-Add a screenshot of your project here.
-
-Example:
-
-```
-images/quiz-home.png
-```
-
----
 
 ## ▶️ How to Run
 
