@@ -42,7 +42,7 @@ Quiz-Application/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/Quiz-Application.git
+(https://github.com/chandanDP-2005/Interactive-Quiz-Application-using-HTML-CSS-JavaScript)
 ```
 
 2. Open the project folder.
